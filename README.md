@@ -23,6 +23,8 @@ These instructions will help you set up and run the spam filter on your local ma
    ```bash
    git clone https://github.com/your-username/spam-filter.git
    cd spam-filter
+    ```
+    or simply click [here](https://ash-taraghi.github.io/Spam-Filter/)
 
 2. (optional) Install dependencies if any (for testing)
 
